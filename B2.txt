@@ -1,0 +1,3 @@
+*Getting bunch of data for different environment and using neural networking we can predict 
+different combinations.
+*After that we can tweek the data from sensors accordingly and thus we can get the information a bit aqurately.

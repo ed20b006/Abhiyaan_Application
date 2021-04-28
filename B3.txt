@@ -1,0 +1,3 @@
+*Get the color distribution of the cone and thus the cone is separated from the environment.
+*Now since we know the color distribution we can separate the obstacle from the environment even if it comes close.
+*Pedestrians can't be done this way but by getting large amount of data and using neural networking the 
