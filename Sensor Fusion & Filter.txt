@@ -1,0 +1,7 @@
+*Sensor fusion and filter helps in combining different or same type of sensors to reduce noise and measure data that can't be measured by one sensor.
+*If n number of same sensors are fused together using sensor fusion the resultant information has an accuracy of square root of n times the original data.
+*It also increases the reliability because even if one of the sensor fails or the accuracy decreases the sensor still manages to get an accurate data from other sensors.
+*The noise can also be reduced using different types of sensors .Eg: In a phone the magnetometer measures the north pole but the data have high noise due to the magnetic feild in the phone . Here the data from a gyro ( not affected by magnetic field ) and magnetometer to get accurate information.
+*Sensor fusion can be used to get data like 3D space which can't be measures by one camera but by using two cameras ( like human eyes ).
+*It is also used to increase the coverage area of the sense. Eg : In autodriving cars the sensors in each sides of the car can be fussed together to sense the whole environment around the car ( NOTE : Here each sensors work to increase coverage and not reduce noise ).s
+*Most sensor filters make use of kalman filter algorithm.  
